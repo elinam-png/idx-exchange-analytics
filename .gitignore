@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+*.csv
+*.xlsx
+*.xls
+*.twbx
+
+data/
+raw_data/
+exports/
